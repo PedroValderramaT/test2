@@ -1,1 +1,1 @@
-this is a tes to see how to add a repo from your own disk
+this is a test to see how to add a repo from your own disk
